@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shree Sharma</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<img align="right" alt="Coding" width="400"src="https://user-images.githubusercontent.com/125440375/219616451-d945dd2e-356d-44bd-a3e4-690a7210b449.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shree12-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="shree12-cyber" /> </p>
 
 - 🌱 I’m currently learning **React js**
